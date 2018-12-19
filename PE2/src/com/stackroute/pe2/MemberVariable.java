@@ -6,6 +6,5 @@ public class MemberVariable{
         System.out.println("Members Name:"+obj.Name);
         System.out.println("Members Age:"+obj.age);
         System.out.println("Members Salary:"+obj.Salary);
-
     }
 }
